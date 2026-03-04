@@ -17,12 +17,14 @@
     { "id": 15, "name": "Denpasar Utara", "regency_id": 5 },
     { "id": 16, "name": "Kuta", "regency_id": 6 },
     { "id": 17, "name": "Kuta Selatan", "regency_id": 6 },
-    { "id": 18, "name": "Kuta Utara", "regency_id": 6 }
+    { "id": 18, "name": "Kuta Utara", "regency_id": 6 },
+    { "id": 19, "name": "Coblong", "regency_id": 7 }
   ],
   "Provinces": [
     { "id": 1, "name": "Kepulauan Riau" },
     { "id": 2, "name": "DKI Jakarta" },
-    { "id": 3, "name": "Bali" }
+    { "id": 3, "name": "Bali" },
+    { "id": 4, "name": "Jawa Barat" }
   ],
   "Regencies": [
     { "id": 1, "name": "Kota Batam", "province_id": 1 },
@@ -30,6 +32,7 @@
     { "id": 3, "name": "Jakarta Selatan", "province_id": 2 },
     { "id": 4, "name": "Jakarta Barat", "province_id": 2 },
     { "id": 5, "name": "Kota Denpasar", "province_id": 3 },
-    { "id": 6, "name": "Badung", "province_id": 3 }
+    { "id": 6, "name": "Kota Badung", "province_id": 3 },
+    { "id": 7, "name": "Kota Bandung", "province_id": 4 }
   ]
 }
